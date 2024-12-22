@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ezem_black">#222325</color>
+    <color name="ezem_white">#FFFFFFFF</color>
+    <color name="ezem_green">#156545</color>
+    <color name="ezem_light_green">#37765D</color>
+    <color name="ezem_light_gray">#C8C8C8</color>
+    <color name="ezem_gray">#969696</color>
+</resources>

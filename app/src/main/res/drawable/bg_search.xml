@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Shadow layer -->
+    <item android:left="2dp" android:top="2dp" android:right="2dp" android:bottom="2dp">
+        <shape>
+            <corners android:radius="20dp" />
+            <solid android:color="#66000000" />
+        </shape>
+    </item>
+
+    <!-- Main shape layer -->
+    <item>
+        <shape>
+            <corners android:radius="20dp" />
+            <solid android:color="@color/ezem_white" />
+            <stroke android:color="@color/ezem_gray" android:width="1dp" />
+        </shape>
+    </item>
+
+</layer-list>
